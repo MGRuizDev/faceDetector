@@ -1,0 +1,9 @@
+.form_comp{
+    background: linear-gradient(45deg, lightblue, magenta);
+    margin: 50px;
+    padding: 20px;
+}
+
+form{
+    width: 700px;
+}
